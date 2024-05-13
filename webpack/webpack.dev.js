@@ -32,7 +32,7 @@ module.exports = {
       "process.env.REACT_APP_NAME": JSON.stringify("E-Commerce Web App"),
       "process.env.REACT_APP_TYPE": JSON.stringify("development"),
       "process.env.REACT_APP_API_URL": JSON.stringify(
-        "http://localhost:3001/api/v1"
+        "http://localhost:3010/api/v1"
       ),
     }),
     new ReactRefreshWebpackPlugin(),
